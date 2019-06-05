@@ -7,6 +7,7 @@ python_flask_simple_api_post
 
 http://localhost:5000/todo/api/v1.0/tasks
 
+http://localhost:5000/todo/api/v1.0/tasks/2
 
 
 ## Docs
